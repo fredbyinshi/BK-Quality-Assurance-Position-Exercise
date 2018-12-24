@@ -1,6 +1,6 @@
 # BK-Quality-Assurance-Position-Exercise
 
-I did this exercise using Cypress framework`
+I did this exercise using Cypress framework.
 Cypress is a javascript based framework for code testing.
 
 #In order to set up the project
